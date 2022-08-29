@@ -31,7 +31,7 @@ function App() {
   }
 
   return (
-    <div className='clock'>
+    <div className='clock no-seleccionable'>
       <div className="screen">
         <h1 className="time">{time}</h1>
       </div>
